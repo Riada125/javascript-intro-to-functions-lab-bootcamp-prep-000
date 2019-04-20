@@ -15,4 +15,5 @@ function sayHiToGrandma(shout, whisper) {
    console.log("hello")
    return("YES, INDEED!")
    console.log("HELLO, GRANDMA!")
+   return("I ")
 }
