@@ -12,7 +12,7 @@ function logWhisper() {
 }
 function sayHiToGrandma(string) {
   return ("I can't hear you!")
-  console.log("hello")
+  console.log( ${whisper} "hello")
 }
 function sayHiToGrandma(string) {
   return ("YES INDEED!")
