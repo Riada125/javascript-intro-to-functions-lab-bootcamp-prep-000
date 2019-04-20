@@ -14,3 +14,11 @@ function sayHiToGrandma(string) {
   return ("I can't hear you!")
   console.log("hello")
 }
+function sayHiToGrandma(string) {
+  return ("YES INDEED!")
+  console.log("HELLO!")
+}
+function sayHiToGrandma(string) {
+  return('I love you, too')
+  console.log('I love you, Grandma.')
+}
